@@ -1,0 +1,7 @@
+C:\Users\rudye\source\repos\lab2Jan\lab2Jan\bin\Debug\lab2Jan.exe.config
+C:\Users\rudye\source\repos\lab2Jan\lab2Jan\bin\Debug\lab2Jan.exe
+C:\Users\rudye\source\repos\lab2Jan\lab2Jan\bin\Debug\lab2Jan.pdb
+C:\Users\rudye\source\repos\lab2Jan\lab2Jan\obj\Debug\lab2Jan.csprojAssemblyReference.cache
+C:\Users\rudye\source\repos\lab2Jan\lab2Jan\obj\Debug\lab2Jan.csproj.CoreCompileInputs.cache
+C:\Users\rudye\source\repos\lab2Jan\lab2Jan\obj\Debug\lab2Jan.exe
+C:\Users\rudye\source\repos\lab2Jan\lab2Jan\obj\Debug\lab2Jan.pdb
